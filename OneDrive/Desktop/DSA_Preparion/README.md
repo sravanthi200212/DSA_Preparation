@@ -6,3 +6,4 @@ Click on any topic to open the PDF.
 ## Theory
 1. [DSA Syllabus](DSA Syllabus.pdf)  
 2. [Introduction to DSA](Introduction to DSA.pdf)
+3. [Arrays](Arrays.pdf)
